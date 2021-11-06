@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\bin\Debug\netcoreapp3.1\CalculatorSwitchCase.exe
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\bin\Debug\netcoreapp3.1\CalculatorSwitchCase.deps.json
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\bin\Debug\netcoreapp3.1\CalculatorSwitchCase.runtimeconfig.json
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\bin\Debug\netcoreapp3.1\CalculatorSwitchCase.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\bin\Debug\netcoreapp3.1\CalculatorSwitchCase.dll
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\bin\Debug\netcoreapp3.1\CalculatorSwitchCase.pdb
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\obj\Debug\netcoreapp3.1\CalculatorSwitchCase.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\obj\Debug\netcoreapp3.1\CalculatorSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\obj\Debug\netcoreapp3.1\CalculatorSwitchCase.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\obj\Debug\netcoreapp3.1\CalculatorSwitchCase.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\obj\Debug\netcoreapp3.1\CalculatorSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\obj\Debug\netcoreapp3.1\CalculatorSwitchCase.dll
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\obj\Debug\netcoreapp3.1\CalculatorSwitchCase.pdb
+C:\Users\ivoom\source\repos\CalculatorSwitchCase\CalculatorSwitchCase\obj\Debug\netcoreapp3.1\CalculatorSwitchCase.genruntimeconfig.cache
