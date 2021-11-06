@@ -11,7 +11,7 @@ namespace SumOfNumbersFrom1To50DivisibleBy3And4
             for (int i = 1; i <= 50; i++)
             {
                 if (i % 12 == 0)
-                    sum = sum + i; //sum++
+                    sum = sum + i;
             }
             Console.WriteLine("Sum= {0}", sum);
         }
