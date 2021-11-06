@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInIntervalNToMDoWhile", "NumbersInIntervalNToMDoWhile\NumbersInIntervalNToMDoWhile.csproj", "{57582D36-CD9C-4D2F-B6CD-95A8A8E8D06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57582D36-CD9C-4D2F-B6CD-95A8A8E8D06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57582D36-CD9C-4D2F-B6CD-95A8A8E8D06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57582D36-CD9C-4D2F-B6CD-95A8A8E8D06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57582D36-CD9C-4D2F-B6CD-95A8A8E8D06A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97681F1-D355-4A32-8585-D7A948661DF2}
+	EndGlobalSection
+EndGlobal
