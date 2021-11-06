@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\bin\Debug\netcoreapp3.1\SumOfFractionalNumbers.exe
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\bin\Debug\netcoreapp3.1\SumOfFractionalNumbers.deps.json
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\bin\Debug\netcoreapp3.1\SumOfFractionalNumbers.runtimeconfig.json
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\bin\Debug\netcoreapp3.1\SumOfFractionalNumbers.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\bin\Debug\netcoreapp3.1\SumOfFractionalNumbers.dll
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\bin\Debug\netcoreapp3.1\SumOfFractionalNumbers.pdb
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\obj\Debug\netcoreapp3.1\SumOfFractionalNumbers.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\obj\Debug\netcoreapp3.1\SumOfFractionalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\obj\Debug\netcoreapp3.1\SumOfFractionalNumbers.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\obj\Debug\netcoreapp3.1\SumOfFractionalNumbers.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\obj\Debug\netcoreapp3.1\SumOfFractionalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\obj\Debug\netcoreapp3.1\SumOfFractionalNumbers.dll
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\obj\Debug\netcoreapp3.1\SumOfFractionalNumbers.pdb
+C:\Users\ivoom\source\repos\SumOfFractionalNumbers\SumOfFractionalNumbers\obj\Debug\netcoreapp3.1\SumOfFractionalNumbers.genruntimeconfig.cache
