@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaAndPerimeterOfSquareAndRectangle", "AreaAndPerimeterOfSquareAndRectangle\AreaAndPerimeterOfSquareAndRectangle.csproj", "{118490E0-B7C9-4AE6-B252-A7809303AAB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118490E0-B7C9-4AE6-B252-A7809303AAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118490E0-B7C9-4AE6-B252-A7809303AAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118490E0-B7C9-4AE6-B252-A7809303AAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118490E0-B7C9-4AE6-B252-A7809303AAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BFF111B-8623-4977-8C9E-8F3035884F9E}
+	EndGlobalSection
+EndGlobal
