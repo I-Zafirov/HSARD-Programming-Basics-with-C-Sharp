@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\bin\Debug\netcoreapp3.1\ParameterTransmissionMechanism.exe
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\bin\Debug\netcoreapp3.1\ParameterTransmissionMechanism.deps.json
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\bin\Debug\netcoreapp3.1\ParameterTransmissionMechanism.runtimeconfig.json
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\bin\Debug\netcoreapp3.1\ParameterTransmissionMechanism.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\bin\Debug\netcoreapp3.1\ParameterTransmissionMechanism.dll
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\bin\Debug\netcoreapp3.1\ParameterTransmissionMechanism.pdb
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\obj\Debug\netcoreapp3.1\ParameterTransmissionMechanism.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\obj\Debug\netcoreapp3.1\ParameterTransmissionMechanism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\obj\Debug\netcoreapp3.1\ParameterTransmissionMechanism.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\obj\Debug\netcoreapp3.1\ParameterTransmissionMechanism.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\obj\Debug\netcoreapp3.1\ParameterTransmissionMechanism.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\obj\Debug\netcoreapp3.1\ParameterTransmissionMechanism.dll
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\obj\Debug\netcoreapp3.1\ParameterTransmissionMechanism.pdb
+C:\Users\ivoom\source\repos\ParameterTransmissionMechanism\ParameterTransmissionMechanism\obj\Debug\netcoreapp3.1\ParameterTransmissionMechanism.genruntimeconfig.cache
