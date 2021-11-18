@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\bin\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.exe
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\bin\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.deps.json
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\bin\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.runtimeconfig.json
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\bin\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\bin\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.dll
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\bin\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.pdb
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\obj\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\obj\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\obj\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\obj\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\obj\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\obj\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.dll
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\obj\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.pdb
+C:\Users\ivoom\source\repos\NextDayOfTheWeekEnum\NextDayOfTheWeekEnum\obj\Debug\netcoreapp3.1\NextDayOfTheWeekEnum.genruntimeconfig.cache
