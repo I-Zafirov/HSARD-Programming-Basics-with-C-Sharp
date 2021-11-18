@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\obj\Debug\netcoreapp3.1\PayrollTaxMethods.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\obj\Debug\netcoreapp3.1\PayrollTaxMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\obj\Debug\netcoreapp3.1\PayrollTaxMethods.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\obj\Debug\netcoreapp3.1\PayrollTaxMethods.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\obj\Debug\netcoreapp3.1\PayrollTaxMethods.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\bin\Debug\netcoreapp3.1\PayrollTaxMethods.exe
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\bin\Debug\netcoreapp3.1\PayrollTaxMethods.deps.json
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\bin\Debug\netcoreapp3.1\PayrollTaxMethods.runtimeconfig.json
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\bin\Debug\netcoreapp3.1\PayrollTaxMethods.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\bin\Debug\netcoreapp3.1\PayrollTaxMethods.dll
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\bin\Debug\netcoreapp3.1\PayrollTaxMethods.pdb
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\obj\Debug\netcoreapp3.1\PayrollTaxMethods.dll
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\obj\Debug\netcoreapp3.1\PayrollTaxMethods.pdb
+C:\Users\ivoom\source\repos\PayrollTaxMethods\PayrollTaxMethods\obj\Debug\netcoreapp3.1\PayrollTaxMethods.genruntimeconfig.cache
