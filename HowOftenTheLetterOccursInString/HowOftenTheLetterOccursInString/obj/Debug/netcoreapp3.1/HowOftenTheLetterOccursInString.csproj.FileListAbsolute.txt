@@ -1,0 +1,5 @@
+C:\Users\ivoom\source\repos\HowOftenTheLetterOccursInString\HowOftenTheLetterOccursInString\obj\Debug\netcoreapp3.1\HowOftenTheLetterOccursInString.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\HowOftenTheLetterOccursInString\HowOftenTheLetterOccursInString\obj\Debug\netcoreapp3.1\HowOftenTheLetterOccursInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\HowOftenTheLetterOccursInString\HowOftenTheLetterOccursInString\obj\Debug\netcoreapp3.1\HowOftenTheLetterOccursInString.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\HowOftenTheLetterOccursInString\HowOftenTheLetterOccursInString\obj\Debug\netcoreapp3.1\HowOftenTheLetterOccursInString.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\HowOftenTheLetterOccursInString\HowOftenTheLetterOccursInString\obj\Debug\netcoreapp3.1\HowOftenTheLetterOccursInString.csproj.CoreCompileInputs.cache
