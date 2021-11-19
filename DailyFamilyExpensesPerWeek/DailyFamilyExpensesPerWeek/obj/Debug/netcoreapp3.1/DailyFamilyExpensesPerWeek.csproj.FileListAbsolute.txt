@@ -1,0 +1,13 @@
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\bin\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.exe
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\bin\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.deps.json
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\bin\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.runtimeconfig.json
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\bin\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\bin\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.dll
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\bin\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.pdb
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\obj\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\obj\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\obj\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\obj\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\obj\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.dll
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\obj\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.pdb
+C:\Users\ivoom\source\repos\DailyFamilyExpensesPerWeek\DailyFamilyExpensesPerWeek\obj\Debug\netcoreapp3.1\DailyFamilyExpensesPerWeek.genruntimeconfig.cache
