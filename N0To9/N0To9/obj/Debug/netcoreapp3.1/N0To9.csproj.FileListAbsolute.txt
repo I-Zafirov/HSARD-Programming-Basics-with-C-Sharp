@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\N0To9\N0To9\bin\Debug\netcoreapp3.1\N0To9.exe
+C:\Users\ivoom\source\repos\N0To9\N0To9\bin\Debug\netcoreapp3.1\N0To9.deps.json
+C:\Users\ivoom\source\repos\N0To9\N0To9\bin\Debug\netcoreapp3.1\N0To9.runtimeconfig.json
+C:\Users\ivoom\source\repos\N0To9\N0To9\bin\Debug\netcoreapp3.1\N0To9.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\N0To9\N0To9\bin\Debug\netcoreapp3.1\N0To9.dll
+C:\Users\ivoom\source\repos\N0To9\N0To9\bin\Debug\netcoreapp3.1\N0To9.pdb
+C:\Users\ivoom\source\repos\N0To9\N0To9\obj\Debug\netcoreapp3.1\N0To9.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\N0To9\N0To9\obj\Debug\netcoreapp3.1\N0To9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\N0To9\N0To9\obj\Debug\netcoreapp3.1\N0To9.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\N0To9\N0To9\obj\Debug\netcoreapp3.1\N0To9.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\N0To9\N0To9\obj\Debug\netcoreapp3.1\N0To9.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\N0To9\N0To9\obj\Debug\netcoreapp3.1\N0To9.dll
+C:\Users\ivoom\source\repos\N0To9\N0To9\obj\Debug\netcoreapp3.1\N0To9.pdb
+C:\Users\ivoom\source\repos\N0To9\N0To9\obj\Debug\netcoreapp3.1\N0To9.genruntimeconfig.cache
