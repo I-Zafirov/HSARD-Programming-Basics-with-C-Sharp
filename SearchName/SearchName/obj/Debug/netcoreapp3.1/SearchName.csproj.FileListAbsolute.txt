@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\SearchName\SearchName\bin\Debug\netcoreapp3.1\SearchName.exe
+C:\Users\ivoom\source\repos\SearchName\SearchName\bin\Debug\netcoreapp3.1\SearchName.deps.json
+C:\Users\ivoom\source\repos\SearchName\SearchName\bin\Debug\netcoreapp3.1\SearchName.runtimeconfig.json
+C:\Users\ivoom\source\repos\SearchName\SearchName\bin\Debug\netcoreapp3.1\SearchName.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\SearchName\SearchName\bin\Debug\netcoreapp3.1\SearchName.dll
+C:\Users\ivoom\source\repos\SearchName\SearchName\bin\Debug\netcoreapp3.1\SearchName.pdb
+C:\Users\ivoom\source\repos\SearchName\SearchName\obj\Debug\netcoreapp3.1\SearchName.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\SearchName\SearchName\obj\Debug\netcoreapp3.1\SearchName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\SearchName\SearchName\obj\Debug\netcoreapp3.1\SearchName.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\SearchName\SearchName\obj\Debug\netcoreapp3.1\SearchName.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\SearchName\SearchName\obj\Debug\netcoreapp3.1\SearchName.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\SearchName\SearchName\obj\Debug\netcoreapp3.1\SearchName.dll
+C:\Users\ivoom\source\repos\SearchName\SearchName\obj\Debug\netcoreapp3.1\SearchName.pdb
+C:\Users\ivoom\source\repos\SearchName\SearchName\obj\Debug\netcoreapp3.1\SearchName.genruntimeconfig.cache
