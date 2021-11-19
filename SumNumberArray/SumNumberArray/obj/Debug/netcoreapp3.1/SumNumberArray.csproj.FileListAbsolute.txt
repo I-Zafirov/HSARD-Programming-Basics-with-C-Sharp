@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\bin\Debug\netcoreapp3.1\SumNumberArray.exe
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\bin\Debug\netcoreapp3.1\SumNumberArray.deps.json
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\bin\Debug\netcoreapp3.1\SumNumberArray.runtimeconfig.json
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\bin\Debug\netcoreapp3.1\SumNumberArray.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\bin\Debug\netcoreapp3.1\SumNumberArray.dll
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\bin\Debug\netcoreapp3.1\SumNumberArray.pdb
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\obj\Debug\netcoreapp3.1\SumNumberArray.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\obj\Debug\netcoreapp3.1\SumNumberArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\obj\Debug\netcoreapp3.1\SumNumberArray.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\obj\Debug\netcoreapp3.1\SumNumberArray.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\obj\Debug\netcoreapp3.1\SumNumberArray.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\obj\Debug\netcoreapp3.1\SumNumberArray.dll
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\obj\Debug\netcoreapp3.1\SumNumberArray.pdb
+C:\Users\ivoom\source\repos\SumNumberArray\SumNumberArray\obj\Debug\netcoreapp3.1\SumNumberArray.genruntimeconfig.cache
