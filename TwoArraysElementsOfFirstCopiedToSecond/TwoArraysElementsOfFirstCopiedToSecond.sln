@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoArraysElementsOfFirstCopiedToSecond", "TwoArraysElementsOfFirstCopiedToSecond\TwoArraysElementsOfFirstCopiedToSecond.csproj", "{46930DE5-2D2D-4240-99C4-5079B2D72CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46930DE5-2D2D-4240-99C4-5079B2D72CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46930DE5-2D2D-4240-99C4-5079B2D72CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46930DE5-2D2D-4240-99C4-5079B2D72CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46930DE5-2D2D-4240-99C4-5079B2D72CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1280C18-3C74-49C9-8BE2-F12AD77894E1}
+	EndGlobalSection
+EndGlobal
