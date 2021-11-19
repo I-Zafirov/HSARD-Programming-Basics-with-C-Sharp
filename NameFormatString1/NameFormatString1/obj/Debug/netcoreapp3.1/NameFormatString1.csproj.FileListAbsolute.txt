@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\bin\Debug\netcoreapp3.1\NameFormatString1.exe
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\bin\Debug\netcoreapp3.1\NameFormatString1.deps.json
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\bin\Debug\netcoreapp3.1\NameFormatString1.runtimeconfig.json
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\bin\Debug\netcoreapp3.1\NameFormatString1.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\bin\Debug\netcoreapp3.1\NameFormatString1.dll
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\bin\Debug\netcoreapp3.1\NameFormatString1.pdb
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\obj\Debug\netcoreapp3.1\NameFormatString1.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\obj\Debug\netcoreapp3.1\NameFormatString1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\obj\Debug\netcoreapp3.1\NameFormatString1.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\obj\Debug\netcoreapp3.1\NameFormatString1.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\obj\Debug\netcoreapp3.1\NameFormatString1.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\obj\Debug\netcoreapp3.1\NameFormatString1.dll
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\obj\Debug\netcoreapp3.1\NameFormatString1.pdb
+C:\Users\ivoom\source\repos\NameFormatString1\NameFormatString1\obj\Debug\netcoreapp3.1\NameFormatString1.genruntimeconfig.cache
