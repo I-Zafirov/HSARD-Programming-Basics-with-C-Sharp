@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\bin\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.exe
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\bin\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.deps.json
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\bin\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.runtimeconfig.json
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\bin\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\bin\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.dll
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\bin\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.pdb
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\obj\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\obj\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\obj\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\obj\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\obj\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\obj\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.dll
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\obj\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.pdb
+C:\Users\ivoom\source\repos\StudentsArrayTypePublicStruct\StudentsArrayTypePublicStruct\obj\Debug\netcoreapp3.1\StudentsArrayTypePublicStruct.genruntimeconfig.cache
