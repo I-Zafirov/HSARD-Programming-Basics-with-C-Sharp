@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\bin\Debug\netcoreapp3.1\SearchNumberInArray.exe
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\bin\Debug\netcoreapp3.1\SearchNumberInArray.deps.json
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\bin\Debug\netcoreapp3.1\SearchNumberInArray.runtimeconfig.json
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\bin\Debug\netcoreapp3.1\SearchNumberInArray.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\bin\Debug\netcoreapp3.1\SearchNumberInArray.dll
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\bin\Debug\netcoreapp3.1\SearchNumberInArray.pdb
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\obj\Debug\netcoreapp3.1\SearchNumberInArray.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\obj\Debug\netcoreapp3.1\SearchNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\obj\Debug\netcoreapp3.1\SearchNumberInArray.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\obj\Debug\netcoreapp3.1\SearchNumberInArray.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\obj\Debug\netcoreapp3.1\SearchNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\obj\Debug\netcoreapp3.1\SearchNumberInArray.dll
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\obj\Debug\netcoreapp3.1\SearchNumberInArray.pdb
+C:\Users\ivoom\source\repos\SearchNumberInArray\SearchNumberInArray\obj\Debug\netcoreapp3.1\SearchNumberInArray.genruntimeconfig.cache
