@@ -1,0 +1,13 @@
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\bin\Debug\netcoreapp3.1\TextInReverseOrder.exe
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\bin\Debug\netcoreapp3.1\TextInReverseOrder.deps.json
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\bin\Debug\netcoreapp3.1\TextInReverseOrder.runtimeconfig.json
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\bin\Debug\netcoreapp3.1\TextInReverseOrder.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\bin\Debug\netcoreapp3.1\TextInReverseOrder.dll
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\bin\Debug\netcoreapp3.1\TextInReverseOrder.pdb
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\obj\Debug\netcoreapp3.1\TextInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\obj\Debug\netcoreapp3.1\TextInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\obj\Debug\netcoreapp3.1\TextInReverseOrder.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\obj\Debug\netcoreapp3.1\TextInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\obj\Debug\netcoreapp3.1\TextInReverseOrder.dll
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\obj\Debug\netcoreapp3.1\TextInReverseOrder.pdb
+C:\Users\ivoom\source\repos\TextInReverseOrder\TextInReverseOrder\obj\Debug\netcoreapp3.1\TextInReverseOrder.genruntimeconfig.cache
