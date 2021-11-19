@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\bin\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.exe
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\bin\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.deps.json
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\bin\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.runtimeconfig.json
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\bin\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\bin\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.dll
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\bin\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.pdb
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\obj\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\obj\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\obj\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\obj\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\obj\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\obj\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.dll
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\obj\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.pdb
+C:\Users\ivoom\source\repos\ArrayOf10ElementsMultipliedBy5\ArrayOf10ElementsMultipliedBy5\obj\Debug\netcoreapp3.1\ArrayOf10ElementsMultipliedBy5.genruntimeconfig.cache
