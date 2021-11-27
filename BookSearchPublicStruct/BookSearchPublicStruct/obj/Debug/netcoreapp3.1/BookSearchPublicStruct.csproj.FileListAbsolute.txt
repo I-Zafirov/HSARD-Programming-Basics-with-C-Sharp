@@ -1,0 +1,14 @@
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\bin\Debug\netcoreapp3.1\BookSearchPublicStruct.exe
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\bin\Debug\netcoreapp3.1\BookSearchPublicStruct.deps.json
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\bin\Debug\netcoreapp3.1\BookSearchPublicStruct.runtimeconfig.json
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\bin\Debug\netcoreapp3.1\BookSearchPublicStruct.runtimeconfig.dev.json
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\bin\Debug\netcoreapp3.1\BookSearchPublicStruct.dll
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\bin\Debug\netcoreapp3.1\BookSearchPublicStruct.pdb
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\obj\Debug\netcoreapp3.1\BookSearchPublicStruct.csproj.AssemblyReference.cache
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\obj\Debug\netcoreapp3.1\BookSearchPublicStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\obj\Debug\netcoreapp3.1\BookSearchPublicStruct.AssemblyInfoInputs.cache
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\obj\Debug\netcoreapp3.1\BookSearchPublicStruct.AssemblyInfo.cs
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\obj\Debug\netcoreapp3.1\BookSearchPublicStruct.csproj.CoreCompileInputs.cache
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\obj\Debug\netcoreapp3.1\BookSearchPublicStruct.dll
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\obj\Debug\netcoreapp3.1\BookSearchPublicStruct.pdb
+C:\Users\ivoom\source\repos\BookSearchPublicStruct\BookSearchPublicStruct\obj\Debug\netcoreapp3.1\BookSearchPublicStruct.genruntimeconfig.cache
